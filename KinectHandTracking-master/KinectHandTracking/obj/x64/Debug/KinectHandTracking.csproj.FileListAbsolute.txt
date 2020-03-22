@@ -1,0 +1,37 @@
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\bin\x64\Debug\KinectHandTracking.exe.config
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\bin\x64\Debug\KinectHandTracking.exe
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\bin\x64\Debug\KinectHandTracking.pdb
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\bin\x64\Debug\Microsoft.Kinect.dll
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\bin\x64\Debug\Microsoft.Kinect.Face.dll
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\bin\x64\Debug\Microsoft.Kinect.xml
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\bin\x64\Debug\Microsoft.Kinect.Face.xml
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\obj\x64\Debug\KinectHandTracking.csprojResolveAssemblyReference.cache
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\obj\x64\Debug\MainWindow.baml
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\obj\x64\Debug\App.baml
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\obj\x64\Debug\MainWindow.g.cs
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\obj\x64\Debug\App.g.cs
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\obj\x64\Debug\KinectHandTracking_MarkupCompile.cache
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\obj\x64\Debug\KinectHandTracking.g.resources
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\obj\x64\Debug\KinectHandTracking.Properties.Resources.resources
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\obj\x64\Debug\KinectHandTracking.csproj.GenerateResource.Cache
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\obj\x64\Debug\KinectHandTracking.exe
+D:\PROJECT\ORGANIZATION\Compfest\IT Development 7\KinectHandTracking\KinectHandTracking\obj\x64\Debug\KinectHandTracking.pdb
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\bin\x64\Debug\KinectHandTracking.exe.config
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\bin\x64\Debug\KinectHandTracking.exe
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\bin\x64\Debug\KinectHandTracking.pdb
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\obj\x64\Debug\KinectHandTracking.csprojAssemblyReference.cache
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\obj\x64\Debug\MainWindow.baml
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\obj\x64\Debug\App.baml
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\obj\x64\Debug\MainWindow.g.cs
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\obj\x64\Debug\App.g.cs
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\obj\x64\Debug\KinectHandTracking_MarkupCompile.cache
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\obj\x64\Debug\KinectHandTracking.g.resources
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\obj\x64\Debug\KinectHandTracking.Properties.Resources.resources
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\obj\x64\Debug\KinectHandTracking.csproj.GenerateResource.cache
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\obj\x64\Debug\KinectHandTracking.csproj.CopyComplete
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\obj\x64\Debug\KinectHandTracking.exe
+C:\Users\bilisim\Desktop\KinectHandTracking-master\KinectHandTracking\obj\x64\Debug\KinectHandTracking.pdb
